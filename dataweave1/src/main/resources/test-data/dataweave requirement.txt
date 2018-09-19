@@ -1,0 +1,11 @@
+requirement
+
+use mule esb to load candidates1.json file and inset all candidates to candidates portal 
+-> http://api.icraftsoft.net:6060/users -> http://api.icraftsoft.net/register/#!/
+
+
+use mule esb to load candidates2.json file and inset all candidates to candidates portal 
+-> http://api.icraftsoft.net:6060/users -> http://api.icraftsoft.net/register/#!/
+
+use mule esb to load candidates3.xml file and inset all candidates to candidates portal 
+-> http://api.icraftsoft.net:6060/users -> http://api.icraftsoft.net/register/#!/
